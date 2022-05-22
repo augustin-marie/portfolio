@@ -51,10 +51,3 @@ h2{
     max-width: 100%;
     height: auto;
 }
-
-.todo::after{
-    content: 'Partie à rédiger';
-    color: red;
-    font-weight: bold;
-    font-size: larger;
-}
