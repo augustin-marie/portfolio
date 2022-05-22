@@ -1,7 +1,7 @@
 /* Fonctions d'initialisation
 ----------------------------------------*/
 function init(){
-    loadPages("../html/home.html")
+    loadPages("./html/home.html")
 }
 
 /*  Fonction du chargement des pages
